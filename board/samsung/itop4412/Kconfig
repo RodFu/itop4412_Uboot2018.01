@@ -9,4 +9,4 @@ config SYS_VENDOR
 config SYS_CONFIG_NAME
 	default "itop4412"
 
-endif
+endif 

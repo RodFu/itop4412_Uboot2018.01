@@ -103,7 +103,7 @@
 /* MIU (Memory Interleaving Unit) */
 #define CONFIG_MIU_2BIT_21_7_INTERLEAVED
 
-#define CONFIG_ENV_IS_IN_MMC
+#define CONFIG_ENV_IS_IN_MMC        1
 #define CONFIG_SYS_MMC_ENV_DEV     0
 #define CONFIG_ENV_SIZE            (16 << 10)  /* 16 KB */
 #define RESERVE_BLOCK_SIZE     (512)
